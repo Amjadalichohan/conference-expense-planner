@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/conference-expense-planner/static/css/main.e6c13ad2.css",
-    "main.js": "/conference-expense-planner/static/js/main.66f55e09.js",
+    "main.css": "/conference-expense-planner/static/css/main.b583e17e.css",
+    "main.js": "/conference-expense-planner/static/js/main.577b66b2.js",
     "static/js/453.c8c9c685.chunk.js": "/conference-expense-planner/static/js/453.c8c9c685.chunk.js",
     "index.html": "/conference-expense-planner/index.html",
-    "main.e6c13ad2.css.map": "/conference-expense-planner/static/css/main.e6c13ad2.css.map",
-    "main.66f55e09.js.map": "/conference-expense-planner/static/js/main.66f55e09.js.map",
+    "main.b583e17e.css.map": "/conference-expense-planner/static/css/main.b583e17e.css.map",
+    "main.577b66b2.js.map": "/conference-expense-planner/static/js/main.577b66b2.js.map",
     "453.c8c9c685.chunk.js.map": "/conference-expense-planner/static/js/453.c8c9c685.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.66f55e09.js"
+    "static/css/main.b583e17e.css",
+    "static/js/main.577b66b2.js"
   ]
 }
